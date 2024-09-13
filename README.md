@@ -93,6 +93,7 @@ $ streamlit run main.py
 ## Acknowledgements
 If you have any doubt or want to contribute feel free to hit me up on (nkishoreoffici@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
+![](https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App/blob/master/Final_Video.gif)
 
 
 Here are some ideas to get you started:
