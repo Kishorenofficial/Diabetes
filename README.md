@@ -95,3 +95,16 @@ If you have any doubt or want to contribute feel free to hit me up on (nkishoreo
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
 
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... medical project
+- 🌱 I’m currently learning ... full stack development
+- 👯 I’m looking to collaborate on ... google
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...nkishoreoffici@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...Be Active Be Success
+-->
+
+
